@@ -47,13 +47,21 @@
 <h2 align="center">📌 Projects 📌</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mhmdashraf11/BMI" title="BMI Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=BMI&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mhmdashraf11/Metro-Guide-App" title="Metro Guide App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Metro-Guide-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/mhmdashraf11/BMI" title="BMI Calculator">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=BMI&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/mhmdashraf11/Metro-Guide-App" title="Metro Guide App">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Metro-Guide-App&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mhmdashraf11/Online-Library-System" title="Online Library System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Online-Library-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mhmdashraf11/Web-Portfolio-Projects" title="Web Portfolio Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Web-Portfolio-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/mhmdashraf11/Online-Library-System" title="Online Library System">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Online-Library-System&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/mhmdashraf11/Web-Portfolio-Projects" title="Web Portfolio Projects">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Web-Portfolio-Projects&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
