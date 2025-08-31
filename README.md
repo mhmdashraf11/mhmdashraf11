@@ -11,7 +11,7 @@ Outside coding, I enjoy exploring new technologies, solving algorithmic challeng
 
 <p>⚡ "Keep building, keep learning, and keep growing." ⚡</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="max-width: 400px; height: auto;" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="max-width: 350px; height: auto;" />
 
 
 <h2>⚡️ A Few Quick Facts</h2>
