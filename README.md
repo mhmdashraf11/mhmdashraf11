@@ -11,15 +11,16 @@ Outside coding, I enjoy exploring new technologies, solving algorithmic challeng
 
 <p>⚡ "Keep building, keep learning, and keep growing." ⚡</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="max-width: 400px; height: auto;" />
+
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/mhmdashraf11/Metro-Guide-App">Metro Guide App</a> (Flutter, Dart, Firebase).</li>
-<li>🧐 Learning more about <strong>Django</strong>, <strong>Database Systems</strong>, and <strong>Full-stack Development</strong>.</li>
+<li>🧐 Currently enrolled in the <strong>Digital Egypt Pioneers Initiative (DEPI)</strong> learning Flutter & Dart.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/mhmdashraf11">my GitHub</a>.</li>
 <li>📱 Strong focus on <strong>cross-platform mobile apps</strong> using Flutter & Dart.</li>
-<li>💬 Ping me about <strong>Flutter, Dart, Firebase, Django, and UI/UX basics</strong>.</li>
+<li>💬 Ping me about <strong>Flutter, Dart, Firebase, and UI/UX basics</strong>.</li>
 <li>📙 Check out my <a href="https://github.com/mhmdashraf11?tab=repositories">projects</a>.</li>
 <li>🌍 Fun Fact: I love combining problem-solving with real-world applications.</li>
 </ul>
