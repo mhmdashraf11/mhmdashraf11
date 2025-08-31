@@ -1,87 +1,58 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mhmdashraf11.mhmdashraf11">
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/mohamed-ashraf-b95259304/">Mohamed Ashraf</a></h2>
+<p>I'm an aspiring <strong>Cross-Platform Mobile Developer</strong> 🎯 specializing in <strong>Flutter & Dart</strong>, currently studying at <strong>Cairo University</strong> (Computers & AI, 2023–2027).  
+I’m also part of the <strong>Digital Egypt Pioneers Initiative (DEPI)</strong> 🚀 where I build mobile and web applications.  
+Outside coding, I enjoy exploring new technologies, solving algorithmic challenges, and working on impactful projects. </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mohamed+Ashraf....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mohamed-ashraf-b95259304/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/mhmdashraf11" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
-  <code><a href="mailto:mohamed4ashraf2019@gmail.com" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm <b>Mohamed Ashraf Mohamed</b>, an aspiring <b>Cross-Platform Mobile Developer</b> from Egypt 🇪🇬
-  <br><br>
-  🎓 B.Sc. in Computers and Artificial Intelligence, Cairo University (2023–2027, GPA: 3.29)  
-  📚 Currently enrolled in <b>Digital Egypt Pioneers Initiative (DEPI)</b> – specializing in Flutter & Dart  
-  💻 Passionate about building impactful mobile and web applications  
-  🚇 Experienced with Flutter, Dart, Firebase, and modern web technologies  
-  🌱 Currently improving my skills in <b>Django</b> and full-stack development  
+<p>
+<a href="https://github.com/mhmdashraf11"><img src="https://img.shields.io/badge/-mhmdashraf11-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mhmdashraf11" alt="GitHub Badge"></a> 
+<a href="mailto:mohamed4ashraf2019@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamed4ashraf2019@gmail.com" alt="Email Badge"></a> 
+<a href="https://www.linkedin.com/in/mohamed-ashraf-b95259304/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mohamed-ashraf-b95259304/" alt="LinkedIn Badge"></a> 
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Dart" height="25" src="images/dart.svg"></code>
-  <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
+<p>⚡ "Keep building, keep learning, and keep growing." ⚡</p>
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/mhmdashraf11/Metro-Guide-App">Metro Guide App</a> (Flutter, Dart, Firebase).</li>
+<li>🧐 Learning more about <strong>Django</strong>, <strong>Database Systems</strong>, and <strong>Full-stack Development</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/mhmdashraf11">my GitHub</a>.</li>
+<li>📱 Strong focus on <strong>cross-platform mobile apps</strong> using Flutter & Dart.</li>
+<li>💬 Ping me about <strong>Flutter, Dart, Firebase, Django, and UI/UX basics</strong>.</li>
+<li>📙 Check out my <a href="https://github.com/mhmdashraf11?tab=repositories">projects</a>.</li>
+<li>🌍 Fun Fact: I love combining problem-solving with real-world applications.</li>
+</ul>
+
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
 </p>
 
-<hr>
+<h2>📌 Highlight Projects</h2>
+<ul>
+<li><a href="https://github.com/mhmdashraf11/BMI">BMI Calculator</a> – Flutter & GetX app for calculating Body Mass Index.</li>
+<li><a href="https://github.com/mhmdashraf11/Metro-Guide-App">Metro Guide App</a> – Route planning, fare calculation, station selection.</li>
+<li><a href="https://github.com/mhmdashraf11/Online-Library-System">Online Library System</a> – Team project with Django backend & search features.</li>
+<li><a href="https://github.com/mhmdashraf11/Web-Portfolio-Projects">Web Portfolio Projects</a> – 3 responsive front-end projects.</li>
+</ul>
 
-<h2 align="center">📌 Projects 📌</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mhmdashraf11/BMI" title="BMI Calculator">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=BMI&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/mhmdashraf11/Metro-Guide-App" title="Metro Guide App">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Metro-Guide-App&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mhmdashraf11/Online-Library-System" title="Online Library System">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Online-Library-System&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/mhmdashraf11/Web-Portfolio-Projects" title="Web Portfolio Projects">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdashraf11&repo=Web-Portfolio-Projects&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/mhmdashraf11?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=mhmdashraf11&theme=react&border=61dafb&hide_border=true" alt="mhmdashraf11" />
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mhmdashraf11&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdashraf11&hide=Mathematica,Ruby,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdashraf11&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<h2>📊 GitHub Stats</h2>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdashraf11&show_icons=true&count_private=true&theme=react" alt="mhmdashraf11" />
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdashraf11&layout=compact&theme=react" alt="Top Languages" />
 </p>
